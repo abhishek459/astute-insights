@@ -13,7 +13,7 @@
 
       <div class="max-w-3xl w-full p-4 sm:p-6 lg:p-8">
         <section class="text-justify leading-relaxed">
-          <p class="mb-4">
+          <p>
             Almost every scroll, every click, every piece of information you
             consume is shaped by algorithms designed to serve an agenda,
             optimized for profit and keeping you engaged. While this isn't
@@ -23,175 +23,174 @@
             world and yourself.
           </p>
 
-          <p class="mb-4">
-            Maybe you have heard a similar story where you see a 25-year-old on
-            a laptop by the beach, talking about the freedom of "passive
-            income". They craft a compelling narrative by minimizing the immense
-            effort required to create and maintain such an income, while
-            exaggerating the challenges of a stable 9-to-5 job. Suddenly, your
-            stability starts to feel like a cage. And the solution they offer is
-            an online course on crypto or dropshipping that promises the
+          <p>
+            You've likely seen a version of this story: a 25-year-old on a
+            laptop by the beach, talking about the freedom of "passive income."
+            They craft a compelling narrative by minimizing the immense effort
+            required to build such an income, while exaggerating the challenges
+            of a stable 9-to-5 job. Suddenly, your stability starts to feel like
+            a cage. The solution they offer? An online course promising the
             "secret" to financial freedom.
           </p>
 
-          <p class="mb-4">Every industry has its version of this.</p>
-
-          <p class="mb-4">
-            Beauty and fitness brands pushing an ideal of "perfection" through
-            flawless skin and sculpted bodies - promising instant results with
-            their products.
+          <p>
+            Every industry has its version of this. Beauty and fitness brands
+            pushing an ideal of "perfection" with flawless skin and sculpted
+            bodies. Influencers showcasing a highlight reel of dream vacations
+            and perfect homes, setting an unspoken benchmark for happiness.
+            Self-help gurus selling proprietary 'blueprints' for winning,
+            creating a clever loop where any failure is proof your mindset
+            wasn't strong enough—conveniently positioning their next product as
+            the upgrade you need.
           </p>
 
-          <p class="mb-4">
-            Social media influencers showcasing their best moments, from dream
-            vacations to perfect homes. Without saying a word, this constant
-            exposure to their peak experiences sets an unspoken benchmark for
-            happiness, subtly making us feel that our own lives are less vibrant
-            or fulfilling.
-          </p>
-
-          <p class="mb-4">
-            Self-help and success gurus who sell a proprietary 'blueprint' for
-            winning, creating a clever loop where any failure to achieve your
-            goals is simply proof your mindset wasn't strong enough,
-            conveniently positioning their next workshop or product as the
-            essential upgrade you need.
-          </p>
-
-          <p class="mb-4">
+          <p>
             Notice how they don't just sell products; they sell definitions.
             They define what beauty means, what wealth looks like, and what
-            happiness feels like. More importantly, they build a narrative where
-            their way becomes the most logical path to achieving it. They profit
-            from the gap they create between where you are and where they imply
-            you should be. You're left in a loop of consumption, chasing a
-            finish line that they have the power to move at any time.
+            happiness should feel like. More importantly, they build a narrative
+            where their way becomes the most logical path to achieving it. They
+            profit from the gap they create between where you are and where they
+            imply you should be, leaving you in a loop of consumption, chasing a
+            finish line they can move at any time.
           </p>
 
-          <p class="mb-4">
-            This is how we get caught in the cycle, constantly chasing a moving
-            target. And we chase it from a place of genuine hope, unaware that
-            it's designed to keep us chasing a reality that's always "just" out
-            of reach. This chase is what drives their revenue. The intended
-            result is a persistent feeling of you being 'not enough'—a state
-            that ensures you keep consuming.
+          <p>
+            This is how we get caught in the cycle. We chase a moving target
+            from a place of genuine hope, unaware that the chase itself is what
+            drives their revenue. The intended outcome is a persistent feeling
+            of being 'not enough'—a state that naturally fuels consumption.
           </p>
 
-          <p class="mb-4">
+          <p>
             The path through this noise isn't found in another product or guru,
             but within our own capacity for astuteness.
           </p>
 
-          <p class="mb-4">
+          <p>
             Astuteness is the discipline of looking at a single narrative and
             searching for the other truths that coexist with it—the different
             angles, the hidden complexities, the parts left unsaid. This
-            practice begins not with answers, but with curiosity: the simple
-            choice to pause and ask, "What else is true here?" By embracing this
-            multi-faceted view of reality, you gain the clarity needed to turn
-            most situations to your advantage.
+            practice begins not with answers, but with <strong>curiosity</strong
+            >: the simple choice to pause and ask, "What else is true here?" By
+            embracing this multi-faceted view of reality, you gain the clarity
+            needed to act effectively and authentically.
           </p>
 
-          <p class="mb-4">
+          <p>
             This is the curiosity to ask the vulnerable, honest questions that
             cut through the noise. This curiosity leads to <strong
-              >Clarity</strong
-            >—a clear view of the bigger picture, the agenda behind the message,
-            and most importantly, what you truly want. From that clarity, you
-            build
-            <strong>Capability</strong>: your ability to identify the aspects of
-            your life you genuinely control and to act on them with intention.
+              >clarity</strong
+            >: a clear view of the bigger picture, the agenda behind the
+            message, and most importantly, what you truly want. From that
+            clarity, you build the
+            <strong>capability</strong> to act on the parts of your life you genuinely
+            control, with intention.
           </p>
 
-          <p class="mb-4">With astuteness, the narrative shifts.</p>
+          <p>With astuteness, the narrative shifts.</p>
 
-          <p class="mb-4">
-            When a beauty brand defines "perfection" or a guru defines
-            "success", you don't just accept it; you examine it. You ask: "Is
-            this standard of beauty actually healthy? What truly keeps skin
-            healthy? Am I chasing success to impress my peers? If I stumble on
-            this path, will I still be valued by those who matter, and by
-            myself? What would a 'successful' life look like if it were entirely
-            on my terms?"
+          <p>
+            When a beauty brand defines "perfection," you don't just accept it;
+            you examine it. You ask: "What truly keeps skin healthy, beyond what
+            comes in a bottle? And if I do choose a product, what ingredients
+            align with that understanding, not just the marketing claims?"
           </p>
 
-          <p class="mb-4">
-            You don't just see the 25-year-old on the beach selling "passive
-            income"; you see the business model behind them. You start to ask:
-            "What is the unseen effort here? What are the hidden risks? And what
-            do they gain by selling me this specific dream of freedom?"
+          <p>
+            When a guru defines "success," you ask: "Am I chasing this to
+            impress others? If I stumble, will I still be valued by those who
+            matter, and by myself? What would a 'successful' life look like if
+            it were entirely on my terms?"
           </p>
 
-          <p class="mb-4">
-            This is where you stop chasing their definitions and start creating
-            your own. And you are free to redefine them on your terms as your
-            own clarity evolves.
+          <p>
+            When you see the 25-year-old selling "passive income," you start
+            asking about the unseen effort, the hidden risks, and what they gain
+            by selling that specific dream. In asking, you begin to see the
+            business model behind the lifestyle.
           </p>
 
-          <p class="mb-4">
-            It's not about being cynical; it's about approaching new information
-            with an open yet questioning mind. You don't blindly accept; you
+          <p>
+            This is where you stop chasing their ideals and start creating your
+            own, free to redefine them as your clarity evolves.
+          </p>
+
+          <p>
+            It's not about rejecting everything cynical; it's about approaching
+            new information with an open yet questioning mind. You don't blindly
+            accept; you
             <strong>evaluate</strong>. It's about understanding <em>why</em> a narrative
-            exists in the first place, rather than declaring you have the one true
-            narrative for everything.
+            exists, rather than declaring you have the one true narrative for everything.
           </p>
 
-          <p class="mb-4">
+          <p>
             My favourite aspect of this mindset is that it's dynamic and
             transferable. Once you learn to see things astutely, you can apply
             it anywhere.
           </p>
 
-          <p class="mb-4">
-            For a business, it's the difference between concluding - "Nobody
-            cares about product anymore" and the deeper understanding, "The
-            product is good, but our sales data shows we misjudged seasonal
-            demand. We need to adapt our marketing and inventory, not scrap the
-            product."
+          <p>
+            In your career, instead of concluding, "My work isn't valued," you
+            start to ask: "Is the problem the quality of my work, or the
+            visibility of my contributions?" Suddenly, the approach isn't just
+            to work harder, but to communicate your impact more effectively.
           </p>
 
-          <p class="mb-4">
-            For a leader, it's the shift from the simple reaction, "My team is
-            unmotivated; I need to enforce stricter deadlines," to the deeper
-            understanding, "My team is quiet. Perhaps they don't feel safe to
-            share ideas. I need to build a culture of trust, not just manage
-            tasks."
+          <p>
+            In a relationship, instead of reacting to distance with, "They don't
+            care anymore," you ask a gentler question: "Are they pulling away
+            from me, or are they retreating into themselves because they're
+            overwhelmed?" The focus shifts from demanding attention to offering
+            support.
           </p>
 
-          <p class="mb-4">
-            As a problem-solver, you stop just putting out fires—"We need more
-            staff to handle complaints"—and start addressing the root cause:
-            "The complaints spike on Mondays because our weekend workflow is
-            creating a bottleneck. Let's fix the system."
+          <p>
+            With your health, you stop blaming yourself with, "I failed another
+            diet; I lack discipline." Instead, you ask: "Did I fail the plan, or
+            did this unsustainable plan fail to fit my actual life?" The goal is
+            no longer about forcing willpower, but about finding habits that
+            genuinely work for you.
           </p>
 
-          <p class="mb-4">
-            And on a personal level, it's moving beyond self-criticism—"I'm so
-            unproductive, I just need more discipline"—to sharp self-awareness:
-            "I'm unproductive because I'm burnt out. The issue isn't my
-            discipline; it's my lack of boundaries. I need to protect my energy
-            to be effective."
+          <p>
+            And on a personal level, you move beyond self-criticism—"I'm so
+            unproductive"—by asking: "Is this a failure of my discipline, or a
+            symptom of my burnout?" The problem isn't a lack of hustle, but a
+            lack of boundaries. The solution isn't more force; it's more rest.
           </p>
 
-          <p class="mb-4">
-            Now that we know what astuteness is and why it's important, the
-            question is how do we develop it. The answer isn't simple.
+          <p>
+            Understanding the 'what' and 'why' of astuteness is the first step.
+            The next is the 'how': How do we reliably develop this skill? How
+            can we practice it effectively? And most importantly, how do we
+            ensure the answers we find are truly our own?
           </p>
 
-          <p class="mb-4">
-            Astute Insights are examples of how an astute mind attempts to
-            think, and I share them on Instagram at <a
+          <p>
+            I don't claim to be an expert with all the answers. I'm a passionate
+            student of this mindset, and I believe the best way to avoid my own
+            biases is to create a practical framework by developing it openly,
+            with you.
+          </p>
+
+          <p>
+            I'll be sharing many ideas on Instagram at <a
               href="https://www.instagram.com/astute.insights"
-              target="_blank">@astute.insights</a
-            >. I invite you to observe, evaluate and question them in the
-            comments instead of simply accepting my version of it, I invite you
-            to create your version of it—that is how we can all develop this
-            mindset together. Do I claim to be astute? No, but I am headed in
-            that direction, and you can join this journey with me. It will take
-            time, but day by day, we will get closer.
+              >@astute.insights</a
+            > and I invite you to participate in building this framework with me,
+            by adding your own perspectives, offering a different angle or pointing
+            out my blind spots in the comments or DMs. This process is designed to
+            help us both sharpen our thinking. It will take time, but day by day,
+            we will get there together.
           </p>
         </section>
       </div>
     </div>
   </div>
 </main>
+
+<style>
+  p {
+    margin-bottom: calc(var(--spacing) * 4);
+  }
+</style>
