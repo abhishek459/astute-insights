@@ -18,14 +18,15 @@
             consume is shaped by algorithms designed to serve an agenda,
             optimized for profit and keeping you engaged. While this isn't
             always wrong, the problem begins when it happens at your expense.
-            This isn't just about selling you products; it's about quietly
-            molding what's important to you and shaping how you think about the
-            world and yourself.
+            This isn't just about selling you products; it's about <em
+              >quietly molding</em
+            > what's important to you and shaping how you think about the world and
+            yourself.
           </p>
 
           <p>
             You've likely seen a version of this story: a 25-year-old on a
-            laptop by the beach, talking about the freedom of "passive income."
+            laptop by the beach, talking about the freedom of "passive income".
             They craft a compelling narrative by minimizing the immense effort
             required to build such an income, while exaggerating the challenges
             of a stable 9-to-5 job. Suddenly, your stability starts to feel like
@@ -39,8 +40,8 @@
             bodies. Influencers showcasing a highlight reel of dream vacations
             and perfect homes, setting an unspoken benchmark for happiness.
             Self-help gurus selling proprietary 'blueprints' for winning,
-            creating a clever loop where any failure is proof your mindset
-            wasn't strong enough—conveniently positioning their next product as
+            creating a clever loop where any failure is proof that your mindset
+            wasn't strong enough, conveniently positioning their next product as
             the upgrade you need.
           </p>
 
@@ -51,19 +52,19 @@
             where their way becomes the most logical path to achieving it. They
             profit from the gap they create between where you are and where they
             imply you should be, leaving you in a loop of consumption, chasing a
-            finish line they can move at any time.
+            finish line which they can move at any time.
           </p>
 
           <p>
             This is how we get caught in the cycle. We chase a moving target
             from a place of genuine hope, unaware that the chase itself is what
-            drives their revenue. The intended outcome is a persistent feeling
-            of being 'not enough'—a state that naturally fuels consumption.
+            drives their revenue. The outcome is a persistent feeling of you
+            being 'not enough'—a state that naturally fuels consumption.
           </p>
 
           <p>
-            The path through this noise isn't found in another product or guru,
-            but within our own capacity for astuteness.
+            The path through this noise isn't found in another product or an
+            expert, but within our own capacity for astuteness.
           </p>
 
           <p>
@@ -90,21 +91,21 @@
           <p>With astuteness, the narrative shifts.</p>
 
           <p>
-            When a beauty brand defines "perfection," you don't just accept it;
+            When a beauty brand defines "perfection", you don't just accept it;
             you examine it. You ask: "What truly keeps skin healthy, beyond what
             comes in a bottle? And if I do choose a product, what ingredients
             align with that understanding, not just the marketing claims?"
           </p>
 
           <p>
-            When a guru defines "success," you ask: "Am I chasing this to
-            impress others? If I stumble, will I still be valued by those who
+            When a guru defines "success", you ask: "Am I chasing this to
+            impress others? If I fail, will I still be valued by those who
             matter, and by myself? What would a 'successful' life look like if
             it were entirely on my terms?"
           </p>
 
           <p>
-            When you see the 25-year-old selling "passive income," you start
+            When you see the 25-year-old selling "passive income", you start
             asking about the unseen effort, the hidden risks, and what they gain
             by selling that specific dream. In asking, you begin to see the
             business model behind the lifestyle.
@@ -112,12 +113,13 @@
 
           <p>
             This is where you stop chasing their ideals and start creating your
-            own, free to redefine them as your clarity evolves.
+            own, while having the freedom to redefine them when your own clarity
+            evolves.
           </p>
 
           <p>
-            It's not about rejecting everything cynical; it's about approaching
-            new information with an open yet questioning mind. You don't blindly
+            It's not about rejecting everything; it's about approaching new
+            information with an open yet questioning mind. You don't blindly
             accept; you
             <strong>evaluate</strong>. It's about understanding <em>why</em> a narrative
             exists, rather than declaring you have the one true narrative for everything.
@@ -130,7 +132,7 @@
           </p>
 
           <p>
-            In your career, instead of concluding, "My work isn't valued," you
+            In your career, instead of concluding, "My work isn't valued", you
             start to ask: "Is the problem the quality of my work, or the
             visibility of my contributions?" Suddenly, the approach isn't just
             to work harder, but to communicate your impact more effectively.
@@ -138,7 +140,7 @@
 
           <p>
             In a relationship, instead of reacting to distance with, "They don't
-            care anymore," you ask a gentler question: "Are they pulling away
+            care anymore", you ask a gentler question: "Are they pulling away
             from me, or are they retreating into themselves because they're
             overwhelmed?" The focus shifts from demanding attention to offering
             support.
@@ -146,7 +148,7 @@
 
           <p>
             With your health, you stop blaming yourself with, "I failed another
-            diet; I lack discipline." Instead, you ask: "Did I fail the plan, or
+            diet; I lack discipline". Instead, you ask: "Did I fail the plan, or
             did this unsustainable plan fail to fit my actual life?" The goal is
             no longer about forcing willpower, but about finding habits that
             genuinely work for you.
