@@ -1,10 +1,16 @@
+<script>
+  import QuotedText from "$lib/components/QuotedText.svelte";
+  import SubHeading from "$lib/components/SubHeading.svelte";
+  import Section from "$lib/components/Section.svelte";
+</script>
+
 <main class="antialiased">
-  <div class="dark:bg-black bg-starlight text-gray-700 dark:text-gray-400">
+  <div class="dark:bg-black bg-starlight text-black dark:text-gray-400">
     <div
       class="min-h-screen flex flex-col items-center justify-center py-10 px-4 sm:px-6 lg:px-8"
     >
       <header
-        class="text-center w-full sticky top-0 bg-starlight/10 dark:bg-black/10 backdrop-blur-sm p-2 z-10"
+        class="text-center w-full sticky top-0 bg-starlight/50 dark:bg-black/15 backdrop-blur-sm p-4 z-10"
       >
         <h1 class="text-3xl font-bold tracking-tight">
           Astute Insights: Navigating a Curated Reality
@@ -12,7 +18,7 @@
       </header>
 
       <div class="max-w-3xl w-full p-4 sm:p-6 lg:p-8">
-        <section class="text-justify leading-relaxed">
+        <Section>
           <p>
             Almost every scroll, every click, every piece of information you
             consume is shaped by algorithms designed to serve an agenda,
@@ -23,6 +29,8 @@
             > what's important to you and shaping how you think about the world and
             yourself.
           </p>
+
+          <SubHeading>The Stories You Are Sold</SubHeading>
 
           <p>
             You've likely seen a version of this story: a 25-year-old on a
@@ -36,7 +44,7 @@
 
           <p>
             Every industry has its version of this. Beauty and fitness brands
-            pushing an ideal of "perfection" with flawless skin and sculpted
+            pushing an ideal of "perfection" through flawless skin and sculpted
             bodies. Influencers showcasing a highlight reel of dream vacations
             and perfect homes, setting an unspoken benchmark for happiness.
             Self-help gurus selling proprietary 'blueprints' for winning,
@@ -45,14 +53,20 @@
             the upgrade you need.
           </p>
 
+          <QuotedText>
+            Notice how they don't just sell products; they <strong
+              >sell definitions</strong
+            >. They define what beauty means, what wealth looks like, and what
+            happiness should feel like.
+          </QuotedText>
+
           <p>
-            Notice how they don't just sell products; they sell definitions.
-            They define what beauty means, what wealth looks like, and what
-            happiness should feel like. More importantly, they build a narrative
-            where their way becomes the most logical path to achieving it. They
-            profit from the gap they create between where you are and where they
-            imply you should be, leaving you in a loop of consumption, chasing a
-            finish line which they can move at any time.
+            More importantly, they build a narrative where their way becomes the
+            most logical path to achieving it. They profit from the gap they
+            create between where you are and where they imply you should be,
+            leaving you in a loop of consumption, chasing a finish line <strong
+              >which they can move at any time</strong
+            >.
           </p>
 
           <p>
@@ -62,19 +76,30 @@
             being 'not enough'—a state that naturally fuels consumption.
           </p>
 
-          <p>
+          <QuotedText>
             The path through this noise isn't found in another product or an
-            expert, but within our own capacity for astuteness.
-          </p>
+            expert, but within our own <strong>capacity for astuteness</strong>.
+          </QuotedText>
+        </Section>
+
+        <Section>
+          <SubHeading>Curiosity as a Compass</SubHeading>
 
           <p>
             Astuteness is the discipline of looking at a single narrative and
             searching for the other truths that coexist with it—the different
-            angles, the hidden complexities, the parts left unsaid. This
-            practice begins not with answers, but with <strong>curiosity</strong
-            >: the simple choice to pause and ask, "What else is true here?" By
-            embracing this multi-faceted view of reality, you gain the clarity
-            needed to act effectively and authentically.
+            angles, the hidden complexities, the parts left unsaid.
+          </p>
+
+          <QuotedText>
+            This practice begins not with answers, but with <strong
+              >curiosity</strong
+            >: the simple choice to pause and ask, "What else is true here?"
+          </QuotedText>
+
+          <p>
+            By embracing this multi-faceted view of reality, you gain the
+            clarity needed to act effectively and authentically.
           </p>
 
           <p>
@@ -88,8 +113,24 @@
             control, with intention.
           </p>
 
-          <p>With astuteness, the narrative shifts.</p>
+          <p>
+            With astuteness, the <em>narrative shifts</em>. It's not about
+            rejecting everything; it's about approaching new information with an
+            open yet questioning mind. You don't blindly accept; you
+            <strong>evaluate</strong>. It's about understanding
+            <em>why</em> a narrative exists, rather than declaring you have the one
+            true narrative for everything.
+          </p>
 
+          <QuotedText>
+            My favourite aspect of this mindset is that it's <strong
+              >dynamic and transferable</strong
+            >. Once you learn to see things astutely, you can apply it anywhere.
+          </QuotedText>
+        </Section>
+
+        <Section>
+          <SubHeading>Questions That Change Everything</SubHeading>
           <p>
             When a beauty brand defines "perfection", you don't just accept it;
             you examine it. You ask: "What truly keeps skin healthy, beyond what
@@ -111,25 +152,11 @@
             business model behind the lifestyle.
           </p>
 
-          <p>
-            This is where you stop chasing their ideals and start creating your
-            own, while having the freedom to redefine them when your own clarity
-            evolves.
-          </p>
-
-          <p>
-            It's not about rejecting everything; it's about approaching new
-            information with an open yet questioning mind. You don't blindly
-            accept; you
-            <strong>evaluate</strong>. It's about understanding <em>why</em> a narrative
-            exists, rather than declaring you have the one true narrative for everything.
-          </p>
-
-          <p>
-            My favourite aspect of this mindset is that it's dynamic and
-            transferable. Once you learn to see things astutely, you can apply
-            it anywhere.
-          </p>
+          <QuotedText>
+            This is where you stop chasing <em>their</em> ideals and start
+            creating <strong>your own</strong>, while having the freedom to
+            redefine them when your own clarity evolves.
+          </QuotedText>
 
           <p>
             In your career, instead of concluding, "My work isn't valued", you
@@ -160,6 +187,11 @@
             symptom of my burnout?" The problem isn't a lack of hustle, but a
             lack of boundaries. The solution isn't more force; it's more rest.
           </p>
+        </Section>
+
+        <!-- Section 4: Building This Together -->
+        <Section>
+          <SubHeading>Building This Together</SubHeading>
 
           <p>
             Understanding the 'what' and 'why' of astuteness is the first step.
@@ -178,14 +210,14 @@
           <p>
             I'll be sharing many ideas on Instagram at <a
               href="https://www.instagram.com/astute.insights"
-              >@astute.insights</a
+              target="_blank">@astute.insights</a
             > and I invite you to participate in building this framework with me,
             by adding your own perspectives, offering a different angle or pointing
             out my blind spots in the comments or DMs. This process is designed to
             help us both sharpen our thinking. It will take time, but day by day,
             we will get there together.
           </p>
-        </section>
+        </Section>
       </div>
     </div>
   </div>

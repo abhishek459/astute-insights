@@ -3,5 +3,5 @@
 @plugin '@tailwindcss/typography';
 
 @theme {
-    --color-starlight: hsl(46, 42%, 88%);
+    --color-starlight: oklch(93% 0.035 88);
 }
