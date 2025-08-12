@@ -2,6 +2,14 @@
   import QuotedText from "$lib/components/QuotedText.svelte";
   import SubHeading from "$lib/components/SubHeading.svelte";
   import Section from "$lib/components/Section.svelte";
+  import { enhance } from "$app/forms"; // SvelteKit's progressive enhancement helper
+
+  /**
+   * This `form` prop is automatically populated by SvelteKit
+   * with the data returned from your server action.
+   * @type {import('./$types').ActionData}
+   */
+  export let form;
 </script>
 
 <main class="antialiased">
@@ -189,10 +197,8 @@
           </p>
         </Section>
 
-        <!-- Section 4: Building This Together -->
         <Section>
-          <SubHeading>Building This Together</SubHeading>
-
+          <SubHeading>Let's Build This Together</SubHeading>
           <p>
             Understanding the 'what' and 'why' of astuteness is the first step.
             The next is the 'how': How do we reliably develop this skill? How
@@ -207,16 +213,84 @@
             with you.
           </p>
 
-          <p>
-            I'll be sharing many ideas on Instagram at <a
-              href="https://www.instagram.com/astute.insights"
-              target="_blank">@astute.insights</a
-            > and I invite you to participate in building this framework with me,
-            by adding your own perspectives, offering a different angle or pointing
-            out my blind spots in the comments or DMs. This process is designed to
-            help us both sharpen our thinking. It will take time, but day by day,
-            we will get there together.
-          </p>
+          <div class="mt-8 grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
+            <!-- Left Column: Email Signup -->
+            <div>
+              <h3 class="text-xl font-semibold">Help Shape What Comes Next</h3>
+              <p class="mt-2 text-base">
+                The ideas in this document are the starting point. The next step
+                is to build them into a practical framework, which will
+                eventually become a book. This process works best when it's not
+                done in isolation. By joining, you become a collaborator,
+                getting access to early concepts and offering the different
+                angles and perspectives this project needs to thrive.
+              </p>
+
+              <div class="mt-6">
+                <p class="font-medium text-base">
+                  Join a small circle to test ideas and follow the book's
+                  progress.
+                </p>
+                <form
+                  method="POST"
+                  use:enhance
+                  class="mt-2 flex flex-col sm:flex-row gap-2"
+                >
+                  <label for="email-address" class="sr-only"
+                    >Email address</label
+                  >
+                  <input
+                    id="email-address"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    required
+                    class="w-full px-4 py-2 rounded-md border-gray-600 bg-transparent focus:ring-2 focus:ring-offset-2 focus:ring-offset-black focus:ring-gray-500"
+                    placeholder="Enter your email"
+                    value={form?.email ?? ""}
+                  />
+                  <button
+                    type="submit"
+                    class="px-6 py-2 rounded-md bg-gray-800 dark:bg-gray-700 text-starlight hover:bg-gray-700 dark:hover:bg-gray-600 transition-colors whitespace-nowrap"
+                  >
+                    I'd like to contribute
+                  </button>
+                </form>
+
+                <!-- Display success or error messages from the server -->
+                {#if form?.success}
+                  <p class="mt-2 text-green-500">{form.message}</p>
+                {:else if form?.error}
+                  <p class="mt-2 text-red-500">{form.error}</p>
+                {/if}
+
+                <p class="mt-3 text-xs text-gray-500">
+                  <strong>Note:</strong> Your email will only be used to share honest
+                  ideas and will never be given to anyone else. No spam, no hype,
+                  no manipulative funnels—just the shared search for clarity.
+                </p>
+              </div>
+            </div>
+
+            <!-- Right Column: Instagram Promotion -->
+            <div>
+              <h3 class="text-xl font-semibold">Join the Daily Conversation</h3>
+              <p class="mt-2 text-base">
+                For more immediate ideas and to join the daily conversation, the
+                community lives and breathes on Instagram. It's where we can
+                practice applying these questions together and sharpen our
+                thinking in real-time.
+              </p>
+              <a
+                href="https://www.instagram.com/astute.insights"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-block mt-4 px-6 py-2 rounded-md border border-gray-600 hover:bg-gray-200 dark:hover:bg-gray-800 transition-colors"
+              >
+                Visit @astute.insights
+              </a>
+            </div>
+          </div>
         </Section>
       </div>
     </div>
@@ -225,6 +299,6 @@
 
 <style>
   p {
-    margin-bottom: calc(var(--spacing) * 4);
+    margin-bottom: 1rem;
   }
 </style>
