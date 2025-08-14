@@ -274,7 +274,7 @@
 
             <!-- Right Column: Instagram Promotion -->
             <div>
-              <h3 class="text-xl font-semibold">Join the Daily Conversation</h3>
+              <h2 class="text-xl font-semibold">Join the Daily Conversation</h2>
               <p class="mt-2 text-base">
                 For more immediate ideas and to join the daily conversation, the
                 community lives and breathes on Instagram. It's where we can
