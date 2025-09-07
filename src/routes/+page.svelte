@@ -230,9 +230,10 @@
             I don't see 'Astuteness' as a proprietary method to be sold, but
             simply as a word for a universal human capacity we can rediscover
             together. I'll be sharing my own process on Instagram at
-            <a href="www.instagram.com/astute.insights">@astute.insights</a>. I
-            invite you not to learn a system, but to simply join in the practice
-            of noticing.
+            <a href="https://www.instagram.com/astute.insights"
+              >@astute.insights</a
+            >. I invite you not to learn a system, but to simply join in the
+            practice of noticing.
           </p>
 
           <p>
