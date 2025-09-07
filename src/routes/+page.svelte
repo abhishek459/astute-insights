@@ -114,8 +114,8 @@
 
           <p>
             Astuteness isn't a secret you have to unlock; it's the simple
-            practice of redirecting the curiosity <strong
-              >you were born with</strong
+            practice of <strong
+              >redirecting the curiosity you were born with</strong
             >. Instead of aiming it outward at what the world demands, you learn
             to turn it inward. This shift is what brings clarity. It is a
             process of both excavation—digging down to our genuine reactions—and
@@ -135,15 +135,15 @@
             <strong>When we see an image of "perfection"</strong>, in spite of
             feeling pressure, we can ask: "What part of me feels I need to be
             that? Where did I learn that story about what is beautiful? And if I
-            do choose a product, what ingredients align with a healthy
+            do choose a skin-care product, what ingredients align with a healthy
             understanding of my skin, not just the marketing claims?". The goal
             is to be kind to ourselves, creating the space to understand our own
-            reactions without judgment as we pursue the other sides of a story.
+            reactions without judgment as we pursue more sides to a story.
           </p>
 
           <p>
             <strong>In our relationships</strong>, when we feel distant from
-            someone, we can shift from "They don't care anymore" to wondering:
+            someone, we can shift from "They don't care enough" to wondering:
             "Is their quietness about me, or are they carrying something heavy
             of their own today?"
           </p>
@@ -174,9 +174,10 @@
 
           <p>
             By asking these questions, we stop seeing the world as a collection
-            of forces trying to trick us, and we start seeing it as a mirror
-            reflecting our own shared human heart. The goal isn't to reject
-            these stories, but to understand ourselves through them.
+            of forces trying to trick or shape us, and we start seeing it as a
+            mirror reflecting our own shared human heart. The goal isn't to
+            reject these stories that are sold to us, but to understand
+            ourselves through them.
           </p>
 
           <p>
@@ -211,15 +212,18 @@
           </p>
 
           <p>
-            This shared practice is vital, because true Astuteness has two
-            movements. The first is this inward journey to find personal
+            This shared practice is vital, because I believe true Astuteness has
+            two movements. The first is this inward journey to find personal
             clarity. But the second, equally important movement is outward. Once
             we understand how these narratives affect us, we are better equipped
-            to engage with our communities more compassionately. It helps us
-            move from asking only, "What's right for me?" to also asking, "How
-            can we build a culture with healthier ideals for everyone?" It
-            ensures our inner work becomes a foundation for connection, not an
-            escape from the world.
+            to engage with our communities more compassionately.
+          </p>
+
+          <p>
+            It helps us move from asking only, "What's right for me?" to also
+            asking, "How can we build a culture with healthier ideals for
+            everyone?" It ensures our inner work becomes a foundation for
+            connection, not an escape from the world.
           </p>
 
           <p>
