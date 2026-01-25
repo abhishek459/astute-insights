@@ -91,6 +91,11 @@
           </QuotedText>
         </Section>
 
+        I need to add a bridge between the gap I created above and the concept
+        below. Something like: So what do we do now? How do I navigate through
+        this? There is no simple answer to this which brings me to the quality
+        of seeking more answers: "Astuteness"
+
         <Section>
           <SubHeading>Curiosity as a Compass</SubHeading>
           <p>
@@ -100,10 +105,11 @@
           </p>
 
           <p>
-            This practice begins not with answers, but with curiosity: the
-            simple choice to pause and ask, "What else is true here? What is
-            this making me feel?"
+            This practice begins with the simple choice to pause and ask, "What
+            else is true here? What is this making me feel?"
           </p>
+
+          <p>It aims to skip our biases, blind spots, etc.</p>
 
           <p>
             With Astuteness, the <em>narrative shifts</em>. You don't blindly
@@ -116,11 +122,18 @@
             Astuteness isn't a secret you have to unlock; it's the simple
             practice of <strong
               >redirecting the curiosity you were born with</strong
-            >. Instead of aiming it outward at what the world demands, you learn
-            to turn it inward. This shift is what brings clarity. It is a
-            process of both excavation—digging down to our genuine reactions—and
-            architecture—using that awareness to consciously build our own
-            values.
+            >.
+
+            <!-- You are not aiming curiousity outwards, instead of shutting it down for convenience and other baits we take like looking good, looking smart, etc -->
+
+            Instead of aiming it outward at what the world demands, you learn to
+            turn it inward. This shift is what brings clarity.
+
+            <!-- I need to describe what clarity is being brought here and what this clarity means -->
+
+            It is a process of both excavation—digging down to our genuine
+            reactions—and architecture—using that awareness to consciously build
+            our own values.
           </p>
         </Section>
 
@@ -230,7 +243,7 @@
             I don't see 'Astuteness' as a proprietary method to be sold, but
             simply as a word for a universal human capacity we can rediscover
             together. I'll be sharing my own process on Instagram at
-            <a href="https://www.instagram.com/astute.insights"
+            <a href="https://www.instagram.com/astute.insights" target="_blank"
               >@astute.insights</a
             >. I invite you not to learn a system, but to simply join in the
             practice of noticing.
